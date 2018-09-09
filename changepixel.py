@@ -1,3 +1,4 @@
+#import the Open CV and numpy
 import cv2 as cv
 import numpy as np
 
